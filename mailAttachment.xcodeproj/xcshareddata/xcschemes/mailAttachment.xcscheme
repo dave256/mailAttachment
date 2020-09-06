@@ -56,6 +56,10 @@
             argument = "dreed@capital.edu"
             isEnabled = "YES">
          </CommandLineArgument>
+         <CommandLineArgument
+            argument = "--subject &quot;this is the subject&quot;"
+            isEnabled = "YES">
+         </CommandLineArgument>
       </CommandLineArguments>
    </LaunchAction>
    <ProfileAction
